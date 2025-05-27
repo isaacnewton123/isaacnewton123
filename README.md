@@ -1,152 +1,219 @@
-# <div align="center">Isaac Newton - Blockchain Developer & Designer</div>
+# <div align="center">🌟 Isaac Newton 🌟</div>
 
 <div align="center">
-  <img src="https://pbs.twimg.com/profile_images/1813811823050956800/iHOWSEHB_400x400.jpg" alt="Isaac Newton" width="200px" style="border-radius: 50%;" />
-  <br><br>
+  <img src="https://pbs.twimg.com/profile_images/1813811823050956800/iHOWSEHB_400x400.jpg" alt="Isaac Newton" width="180px" style="border-radius: 50%; border: 4px solid #00d4ff;" />
   
-  [![Website](https://img.shields.io/badge/Website-isaacnewton.site-blue?style=for-the-badge&logo=google-chrome)](https://isaacnewton.site)
-  [![Twitter](https://img.shields.io/badge/Twitter-@isaac__newton252-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/isaac_newton252)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Isaac_Newton-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hanif-maulana-210b4721b/)
-  [![YouTube](https://img.shields.io/badge/YouTube-@isaacnewton7777-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@isaacnewton7777)
-  [![Instagram](https://img.shields.io/badge/Instagram-@hanifmaulana2-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/hanifmaulana2)
+  <h3>🚀 Blockchain Pioneer | 🎨 Creative Technologist | ⚡ Innovation Catalyst</h3>
+  
+  <p><em>Crafting the future of decentralized web with artistic vision and technical mastery</em></p>
+  
+  <div>
+    <a href="https://isaacnewton.site">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://x.com/isaac_newton252">
+      <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logoColor=white" alt="Twitter"/>
+    </a>
+    <a href="https://www.linkedin.com/in/hanif-maulana-210b4721b/">
+      <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.youtube.com/@isaacnewton7777">
+      <img src="https://img.shields.io/badge/📺_YouTube-FF0000?style=for-the-badge&logoColor=white" alt="YouTube"/>
+    </a>
+  </div>
 </div>
 
 ---
 
-## 🚀 About Me
-
 <div align="center">
-  <strong>🔗 Blockchain enthusiast dedicated to the development of the crypto ecosystem 🔗</strong>
+
+## 🎯 Mission Statement
+
+**"Blockchain enthusiast dedicated to the development of the crypto ecosystem"**
+
+*Where innovation meets imagination - Building tomorrow's decentralized solutions today*
+
 </div>
-
-As a Designer & Developer with expertise in visual design, web development, and Linux server administration (experienced as a crypto validator), I blend artistic vision with technical expertise to create captivating digital experiences.
-
-Since 2020, I've been working on design & development projects, mastering the intersection of visual aesthetics and functional implementation. My approach involves using AI-assisted development (Vibe Coding) to create efficient, innovative solutions while adding my creative direction and technical refinements.
-
-What sets my work apart is my holistic approach — understanding both the artistic and technical aspects allows me to deliver cohesive solutions that are not only visually stunning but also functionally superior.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 💫 About Isaac
+
+Since 2020, I've been at the forefront of blockchain innovation, combining artistic vision with technical expertise to create revolutionary digital experiences. My unique approach - **Vibe Coding** - leverages AI-assisted development while maintaining human creativity and technical precision.
+
+What sets me apart? I don't just build - I **craft experiences** that are visually stunning, functionally superior, and blockchain-native.
+
+---
 
 <div align="center">
 
-### 💻 Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## 🛠️ Arsenal of Innovation
+
+### ⛓️ Blockchain Mastery
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi-00D4FF?style=for-the-badge&logoColor=white)
+
+### 💻 Development Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### ⛓️ Blockchain & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🎨 Design Tools
+### 🎨 Creative Suite
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00A4E4?style=for-the-badge&logo=coreldraw&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00A4E4?style=for-the-badge&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🐧 Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Validator](https://img.shields.io/badge/Crypto_Validator-FF6B35?style=for-the-badge&logoColor=white)
 
 </div>
 
-### 🔧 Core Competencies
-
-- **🔗 Blockchain Development:** Smart contracts, DeFi protocols, crypto validation
-- **🖥️ Vibe Coding:** AI-assisted development for efficient solutions
-- **🎯 3D Modeling & Animation:** Blender expertise for immersive experiences
-- **🖨️ Vector Graphics & Design:** CorelDraw for professional visual identity
-- **📸 Photo Editing & Manipulation:** Photoshop for creative content
-- **🐧 Linux Server Administration:** Ubuntu server management and crypto validation
-- **🌐 Full-Stack Web Development:** Modern web technologies and frameworks
-
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Blockchain Projects
+
+<div align="center">
 
 <table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🔐 Crypto Sudoku</h3>
-      <img src="https://raw.githubusercontent.com/isaacnewton123/sudoku-NFT/refs/heads/main/Removal-779.png" />
-      <br><br>
-      <p>Blockchain-powered Sudoku game with crypto rewards and tournament features</p>
-      <a href="https://cryptosudoku.xyz/">🚀 Live Demo</a>
-    </td>
-    <td width="33%" align="center">
-      <h3>📤 Multi Uploads</h3>
-      <img src="https://raw.githubusercontent.com/isaacnewton123/GravityMultiSenderLandingPages/refs/heads/master/src/assets/images/LogoWithBG.jpeg" alt="Multi Uploads" width="100%" />
-      <br><br>
-      <p>Advanced file upload service with enhanced security and cloud integration</p>
-      <a href="https://multiuploads.xyz/">🚀 Live Demo</a>
-    </td>
-    <td width="33%" align="center">
-      <h3>🌌 Gravity Multi Sender</h3>
-      <img src="https://raw.githubusercontent.com/isaacnewton123/MultiUploads/refs/heads/main/src/assets/images/LogoWithBG.png?token=GHSAT0AAAAAADAUZWP3ORLZECIETVG3564I2BV2LIQ" alt="Gravity Multi Sender" width="100%" />
-      <br><br>
-      <p>Blockchain batch transaction service with minimal gas fees</p>
-      <a href="https://gravitymultisender.xyz/">🚀 Live Demo</a>
-    </td>
-  </tr>
+<tr>
+<td width="33%" align="center">
+
+### 🎲 **Crypto Sudoku**
+<img src="https://raw.githubusercontent.com/isaacnewton123/sudoku-NFT/refs/heads/main/Removal-779.png" width="120px" style="border-radius: 15px;"/>
+
+**🎮 Gamified DeFi Experience**
+- NFT-based puzzle rewards
+- Tournament smart contracts  
+- Play-to-earn mechanics
+- Cross-chain compatibility
+
+[🚀 **Play Now**](https://cryptosudoku.xyz/)
+</td>
+<td width="33%" align="center">
+
+### 📤 **Multi Uploads**
+<img src="https://multiuploads.xyz/assets/LogoWithBG-B93HoXTf.png" width="120px" style="border-radius: 15px;"/>
+
+**🔒 Decentralized File Storage**
+- IPFS integration
+- Blockchain verification
+- Advanced encryption
+- Batch processing
+
+[🚀 **Try It**](https://multiuploads.xyz/)
+
+</td>
+<td width="33%" align="center">
+
+### 🌌 **Gravity Multi Sender**
+<img src="https://raw.githubusercontent.com/isaacnewton123/GravityMultiSenderLandingPages/refs/heads/master/src/assets/images/LogoWithBG.jpeg" width="120px" style="border-radius: 15px;"/>
+
+**⚡ Batch Transaction Protocol**
+- Gas optimization algorithms
+- Multi-chain support
+- Bulk token distribution
+- Smart contract automation
+
+[🚀 **Launch**](https://gravitymultisender.xyz/)
+
+</td>
+</tr>
 </table>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacnewton123&show_icons=true&theme=radical&hide_border=true" alt="Isaac's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacnewton123&theme=radical&hide_border=true" alt="Isaac's Streak Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnewton123&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 🎯 What I'm Currently Working On
-
-- 🔗 Building innovative DeFi protocols and blockchain solutions
-- 🎮 Developing gamified crypto experiences
-- 🎨 Creating immersive 3D environments and animations
-- 🤖 Exploring AI-assisted development methodologies
-- 🛡️ Advancing blockchain security and validation systems
-
----
-
-## 🤝 Let's Connect & Collaborate
-
 <div align="center">
 
-I'm always excited to collaborate on blockchain projects, innovative web solutions, and creative digital experiences. Whether you're looking to build the next DeFi protocol, create stunning visual content, or need expert Linux server administration, let's connect!
+## 📊 GitHub Analytics
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:contact@isaacnewton.site)
-[![Facebook](https://img.shields.io/badge/Facebook-Isaac_Newton-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/hanif.maulana.108)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=isaacnewton123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacnewton123&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b"/>
 
-**🌍 Based in:** Indonesia  
-**💼 Open to:** Blockchain projects, Design collaborations, Development partnerships
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnewton123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Experience
+## 🎯 Current Focus Areas
 
-- ✅ **4+ Years** in Design & Development (Since 2020)
-- ✅ **Crypto Validator** with hands-on blockchain infrastructure experience
-- ✅ **AI-Assisted Development** pioneer with Vibe Coding methodology
-- ✅ **Full-Stack Expertise** from frontend design to server administration
-- ✅ **Creative Portfolio** spanning 2D/3D design and interactive web experiences
+<div align="center">
+
+| 🔥 **Active Projects** | 🚀 **Exploring** | 🌟 **Mastering** |
+|:---:|:---:|:---:|
+| DeFi Protocol Development | Zero-Knowledge Proofs | AI + Blockchain Integration |
+| NFT Marketplace Creation | Layer 2 Solutions | Advanced Smart Contracts |
+| Web3 UX/UI Innovation | Cross-Chain Bridges | Quantum-Resistant Crypto |
+
+</div>
 
 ---
 
 <div align="center">
-  <h3>💡 "Bridging the gap between creative vision and technical innovation in the blockchain space" 💡</h3>
-  
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=isaacnewton123.isaacnewton123)
-  
-  <p>⭐ Don't forget to star my repositories if you find them useful!</p>
-  
-  ---
-  
-  **© 2024 Isaac Newton | Blockchain Developer & Creative Technologist**
+
+## 🤝 Let's Build the Decentralized Future Together
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Always+open+to+blockchain+collaborations;Creating+the+next+generation+of+DeFi;Bridging+art+and+technology;Building+tomorrow's+decentralized+web" alt="Typing SVG" />
+
+### 💼 Open for:
+**🔗 Blockchain Consulting** • **🎨 Creative Tech Projects** • **🚀 Startup Collaborations** • **📚 Mentoring**
+
+<div>
+<a href="mailto:contact@isaacnewton.site">
+  <img src="https://img.shields.io/badge/📧_Email-FF6B6B?style=for-the-badge&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.instagram.com/hanifmaulana2">
+  <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.facebook.com/hanif.maulana.108">
+  <img src="https://img.shields.io/badge/👥_Facebook-1877F2?style=for-the-badge&logoColor=white" alt="Facebook"/>
+</a>
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Achievements & Milestones
+
+```
+🎯 4+ Years in Blockchain Development
+🔗 Active Crypto Network Validator  
+🚀 Multiple DeFi Projects Deployed
+🎨 Award-Winning Creative Portfolio
+🤖 AI-Assisted Development Pioneer
+🌐 Full-Stack Blockchain Architect
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💎 "Innovation is not about the next big thing, it's about the next right thing."
+
+<img src="https://komarev.com/ghpvc/?username=isaacnewton123&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Profile Views"/>
+
+⭐ **Star my repositories if they spark your curiosity!**
+
+---
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Wave"/>
+
+**© 2024 Isaac Newton | Blockchain Pioneer & Creative Technologist**
+
+*"Shaping the decentralized tomorrow, one block at a time"*
+
 </div>
