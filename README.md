@@ -16,21 +16,26 @@ I am a developer with over 4 years of experience specializing in blockchain tech
 
 ## Featured Projects
 
-* **[Crypto Sudoku](https://cryptosudoku.xyz/)** A gamified DeFi platform featuring NFT-based puzzle rewards, tournament smart contracts, and play-to-earn mechanics.
-* **[Multi Uploads](https://multiuploads.xyz/)** A web application designed for seamless file processing and storage, built with a modern stack for optimal performance.
-* **[Gravity Multi Sender](https://gravitymultisender.xyz/)** A batch transaction protocol engineered with gas optimization algorithms for multi-chain bulk token distribution.
+* **[Crypto Sudoku](https://cryptosudoku.xyz/)** - A gamified DeFi platform featuring NFT-based puzzle rewards, tournament smart contracts, and play-to-earn mechanics.
+* **[Multi Uploads](https://multiuploads.xyz/)** - A web application designed for seamless file processing and storage, built with a modern stack for optimal performance.
+* **[Gravity Multi Sender](https://gravitymultisender.xyz/)** - A batch transaction protocol engineered with gas optimization algorithms for multi-chain bulk token distribution.
 
 ## GitHub Analytics
+
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=isaacnewton123&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=a3a3a3"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacnewton123&theme=transparent&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=a3a3a3"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isaacnewton123&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=a3a3a3&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacnewton123&theme=transparent&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=a3a3a3" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacnewton123&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=a3a3a3" alt="Top Languages" />
 </p>
 
 ## Get in Touch
 I am open to blockchain consulting, startup collaborations, and full-stack development roles. 
 
-📧 **Email:** [contact@isaacnewton.site](mailto:hanif@isaacnewton.store)  
+📧 **Email:** [contact@isaacnewton.site](mailto:contact@isaacnewton.site)  
 📱 **Social:** [Instagram](https://www.instagram.com/hanifmaulana2) | [Facebook](https://www.facebook.com/hanif.maulana.108)
 
 ---
-*© 2024 Hanif Maulana*
+*© 2026 Hanif Maulana*
