@@ -1,36 +1,36 @@
-# Hanif Maulana (Isaac)
-**Blockchain & Full-Stack Developer**
+# Hanif Maulana
+**AI Architect & Full-Stack Developer**
 
-[Portfolio](https://isaacnewton.site) • [LinkedIn](https://www.linkedin.com/in/hanif-maulana-210b4721b/) • [Twitter](https://x.com/isaac_newton252) • [YouTube](https://www.youtube.com/@isaacnewton7777)
+[Portfolio](https://isaacnewton.store) • [LinkedIn](https://www.linkedin.com/in/hanif-maulana-210b4721b/) • [Twitter](https://x.com/isaac_newton252)
 
 ---
 
 ## About Me
-I am a developer with over 4 years of experience specializing in blockchain technology and full-stack web development. I focus on building efficient, secure, and user-centric decentralized applications (dApps) and web solutions. Bridging the gap between technical complexity and user experience, I also utilize my background in UI/UX and design to craft intuitive end-to-end products.
+I am a developer with a strong focus on AI-augmented workflows and full-stack architecture. I specialize in building highly efficient, production-ready applications by orchestrating Large Language Models (LLMs) and embracing an AI-first coding methodology. My goal is to bridge the gap between complex system design and intuitive user experiences, leveraging AI to eliminate technical bottlenecks.
 
 ## Technical Skills
-* **Blockchain:** Solidity, Web3.js, Ethereum, DeFi, Smart Contracts, Crypto Validator
-* **Development:** React, Next.js, Node.js, TypeScript (MERN Stack)
-* **Infrastructure:** Linux, Docker, AWS
-* **Design & Creative:** Figma, Blender, Adobe Photoshop, CorelDRAW
+* **Architecture & AI:** LLM Orchestration, AI-Assisted Development, Prompt Engineering
+* **Development:** TypeScript, Node.js, Bun, Elysia, Next.js, React
+* **Infrastructure:** Serverless, Docker, Linux
+* **Design & Creative:** 3D & 2D Design, UI/UX
 
 ## Featured Projects
 
-* **[Crypto Sudoku](https://cryptosudoku.xyz/)** - A gamified DeFi platform featuring NFT-based puzzle rewards, tournament smart contracts, and play-to-earn mechanics.
-* **[Multi Uploads](https://multiuploads.xyz/)** - A web application designed for seamless file processing and storage, built with a modern stack for optimal performance.
-* **[Gravity Multi Sender](https://gravitymultisender.xyz/)** - A batch transaction protocol engineered with gas optimization algorithms for multi-chain bulk token distribution.
+* **[MultiPost](https://multipost.pro/)** - A SaaS platform for managing and uploading content to multiple social media platforms simultaneously. Built entirely using an AI-first coding approach with an optimized Bun/Elysia backend.
+* **[eslint-plugin-ai-guardrails](https://eslint-ai-guardrails.vercel.app/)** - An open-source ESLint plugin providing custom linting rules to prevent long-term tech debt from AI-generated code.
+* **[Crypto Sudoku](https://cryptosudoku.xyz/)** - A gamified DeFi platform featuring smart contracts and play-to-earn mechanics.
 
 ## GitHub Analytics
 
+<p align="center">
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacnewton123&theme=transparent&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=a3a3a3" alt="GitHub Streak" />
 </p>
 
-
 ## Get in Touch
-I am open to blockchain consulting, startup collaborations, and full-stack development roles. 
+I am open to collaborations, architectural consulting, and full-stack development roles.
 
 📧 **Email:** [hanifmaulana1997@gmail.com](mailto:hanifmaulana1997@gmail.com)  
-📱 **Social:** [Instagram](https://www.instagram.com/hanifmaulana2) | [Facebook](https://www.facebook.com/hanif.maulana.108)
+☕ **Support:** [Ko-fi](https://ko-fi.com/isaacnewton1) | [Trakteer](https://trakteer.id/isaacnewton1/link)
 
 ---
 *© 2026 Hanif Maulana*
