@@ -18,7 +18,7 @@ I am a developer with a strong focus on AI-augmented workflows and full-stack ar
 
 * **[MultiPost](https://multipost.pro/)** - A SaaS platform for managing and uploading content to multiple social media platforms simultaneously. Built entirely using an AI-first coding approach with an optimized Bun/Elysia backend.
 * **[eslint-plugin-ai-guardrails](https://eslint-ai-guardrails.vercel.app/)** - An open-source ESLint plugin providing custom linting rules to prevent long-term tech debt from AI-generated code.
-* **[Crypto Sudoku](https://cryptosudoku.xyz/)** - A gamified DeFi platform featuring smart contracts and play-to-earn mechanics.
+* **[Interactive Portfolio](https://isaacnewton.store/)** - A highly optimized, Next.js 16-based portfolio blending immersive 3D/2D galleries with ultra-fast performance and a clean, AI-architected codebase.
 
 ## GitHub Analytics
 
