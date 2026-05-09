@@ -29,7 +29,7 @@ I am a developer with over 4 years of experience specializing in blockchain tech
 ## Get in Touch
 I am open to blockchain consulting, startup collaborations, and full-stack development roles. 
 
-📧 **Email:** [contact@isaacnewton.site](mailto:contact@isaacnewton.site)  
+📧 **Email:** [hanifmaulana1997@gmail.com](mailto:hanifmaulana1997@gmail.com)  
 📱 **Social:** [Instagram](https://www.instagram.com/hanifmaulana2) | [Facebook](https://www.facebook.com/hanif.maulana.108)
 
 ---
