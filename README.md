@@ -6,10 +6,18 @@
 ---
 
 ## About Me
-I am a developer with a strong focus on AI-augmented workflows and full-stack architecture. I specialize in building highly efficient, production-ready applications by orchestrating Large Language Models (LLMs) and embracing an AI-first coding methodology. My goal is to bridge the gap between complex system design and intuitive user experiences, leveraging AI to eliminate technical bottlenecks.
+I am an AI Enthusiast and AI Architect building solutions through Vibe Coding. I orchestrate AI to execute technical visions with high speed and precision, believing that AI is the ultimate tool for innovation.
+
+My core focus is extreme efficiency. By relying on AI as my primary coding partner, I design complex architectures and Agentic Workflows that are production-ready in record time.
+
+AI First Mentality: Always prioritizing intelligent automation and agentic workflows in every technical challenge.
+
+Continuous Learning: Constantly pushing the boundaries of LLM capabilities to redefine how we interact with code.
+
+
 
 ## Technical Skills
-* **Architecture & AI:** LLM Orchestration, AI-Assisted Development, Prompt Engineering
+* **Architecture & AI:** Prompt Engineering
 * **Development:** TypeScript, Node.js, Bun, Elysia, Next.js, React
 * **Infrastructure:** Serverless, Docker, Linux
 * **Design & Creative:** 3D & 2D Design, UI/UX
