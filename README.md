@@ -1,44 +1,61 @@
-# Hanif Maulana
-**AI Architect & Full-Stack Developer**
+<div align="center">
 
-[Portfolio](https://isaacnewton.store) • [LinkedIn](https://www.linkedin.com/in/hanif-maulana-210b4721b/) • [Twitter](https://x.com/isaac_newton252)
+# 🌌 Hanif Maulana
+**AI Architect • Web3 Enthusiast • Full-Stack Developer**
+
+[Portfolio](https://isaacnewton.store) • [GitHub](https://github.com/isaacnewton123) • [X (Twitter)](https://x.com/isaac_new_ton252) • [LinkedIn](https://linkedin.com/in/hanif-maulana-210b4721b) • [Instagram](https://instagram.com/hanifmaulana2) • [Facebook](https://facebook.com/hanif.maulana.108) • [Reddit](https://www.reddit.com/user/Hot-Pea4514)
+
+---
+
+### 🤖 Elevating Visions through Vibe Coding
+*I orchestrate AI to execute technical visions with high speed and precision, believing that the intersection of AI and Blockchain is the ultimate frontier for innovation.*
+
+**AI-First Mentality** • **Web3 Vision** • **Extreme Efficiency**
+
+</div>
 
 ---
 
-## About Me
-I am an AI Enthusiast and AI Architect building solutions through Vibe Coding. I orchestrate AI to execute technical visions with high speed and precision, believing that AI is the ultimate tool for innovation.
+## ⚡ The AI-Powered Advantage
+I leverage **Agentic Workflows** and an **AI-First Mentality** to design complex architectures that are production-ready in record time. By treating AI as my primary coding partner, I redefine the boundaries of what a single developer can achieve.
 
-My core focus is extreme efficiency. By relying on AI as my primary coding partner, I design complex architectures and Agentic Workflows that are production-ready in record time.
-
-AI First Mentality: Always prioritizing intelligent automation and agentic workflows in every technical challenge.
-
-Continuous Learning: Constantly pushing the boundaries of LLM capabilities to redefine how we interact with code.
-
-
-
-## Technical Skills
-* **Architecture & AI:** Prompt Engineering
-* **Development:** TypeScript, Node.js, Bun, Elysia, Next.js, React
-* **Infrastructure:** Serverless, Docker, Linux
-* **Design & Creative:** 3D & 2D Design, UI/UX
-
-## Featured Projects
-
-* **[MultiPost](https://multipost.pro/)** - A SaaS platform for managing and uploading content to multiple social media platforms simultaneously. Built entirely using an AI-first coding approach with an optimized Bun/Elysia backend.
-* **[eslint-plugin-ai-guardrails](https://eslint-ai-guardrails.vercel.app/)** - An open-source ESLint plugin providing custom linting rules to prevent long-term tech debt from AI-generated code.
-* **[Interactive Portfolio](https://isaacnewton.store/)** - A highly optimized, Next.js 16-based portfolio blending immersive 3D/2D galleries with ultra-fast performance and a clean, AI-architected codebase.
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacnewton123&theme=transparent&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=a3a3a3" alt="GitHub Streak" />
-</p>
-
-## Get in Touch
-I am open to collaborations, architectural consulting, and full-stack development roles.
-
-📧 **Email:** [hanifmaulana1997@gmail.com](mailto:hanifmaulana1997@gmail.com)  
-☕ **Support:** [Ko-fi](https://ko-fi.com/isaacnewton1) | [Trakteer](https://trakteer.id/isaacnewton1/link)
+### 🛠️ Core Stack & Orchestration
+| Category | Technologies |
+| :--- | :--- |
+| **AI & Orchestration** | Prompt Engineering, Agentic Workflows, LLM Integration, **Vibe Coding** |
+| **Web3 & Blockchain** | Smart Contract Interaction, Viem, Wagmi, Crypto Ecosystems |
+| **Full-Stack Dev** | TypeScript, Bun, Elysia, Next.js, Node.js, React |
+| **Infrastructure** | Linux (System Administration), Docker, Serverless, Vercel |
 
 ---
-*© 2026 Hanif Maulana*
+
+## 🚀 Featured Innovations
+
+### 🔗 [Viem Error Parser](https://viem-error-parser.vercel.app/)
+> **The Web3 Translator.** Decode complex Viem and Wagmi errors into clean, human-readable messages, including custom revert reasons from your own ABIs.
+
+### 📱 [MultiPost](https://multipost.pro/)
+> **SaaS Redefined.** A high-performance platform for cross-platform content distribution, built with an optimized Bun/Elysia backend and AI-first methodology.
+
+### 🛡️ [AI Guardrails](https://eslint-ai-guardrails.vercel.app/)
+> **Future-Proofing Code.** An open-source ESLint plugin designed to prevent technical debt in AI-generated codebases.
+
+---
+
+## 📊 Performance Analytics
+<div align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=isaacnewton123&theme=transparent&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=a3a3a3" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🤝 Let's Build the Future
+I am open to collaborations in **AI orchestration**, **Web3 systems**, and **architectural consulting**.
+
+*   📧 **Email:** [hanifmaulana1997@gmail.com](mailto:hanifmaulana1997@gmail.com)
+*   ☕ **Support My Journey:** [Ko-fi](https://ko-fi.com/isaacnewton1) | [Trakteer](https://trakteer.id/isaacnewton1/link)
+
+<div align="center">
+<br />
+<i>© 2026 Hanif Maulana — Crafting with Intelligence and Vision.</i>
+</div>
